@@ -1,0 +1,9 @@
+Pack name:  Feathers & Golden Eggs
+Pack URL:   https://modrinth.com/datapack/feathers-golden-eggs
+Author:     Nicole / notblue / nicoleisnotblue
+Author URL: https://modrinth.com/user/notblue   
+
+Inspired by voodoobeard's Chicken Shedding; find all voodoobeard packs at https://mc.voodoobeard.com.
+
+Initial data pack generated with Misode Data Pack Generator (https://misode.github.io).
+Pack maintained using Visual Studio Code.

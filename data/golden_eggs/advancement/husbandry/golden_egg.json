@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "egg"
+    },
+    "title": "The Golden Chicken?",
+    "description": "Find a golden egg (well, nugget) laid by a chicken",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "gold_egg": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "item": {
+          "items": "minecraft:gold_nugget"
+        },
+        "entity": {
+          "type": "minecraft:chicken"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gold_egg"
+    ]
+  ]
+}

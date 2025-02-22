@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "id": "egg"
+    },
+    "title": "Feathers & Golden Eggs",
+    "description": "Chickens shed feathers and lay eggs--and if you're lucky, you might find a golden egg (well, nugget)!",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
